@@ -2,7 +2,7 @@
 layout: page
 title: About me
 description: "你是我的夢想"
-header-img: "/assets/img/about-bg.jpg"
+cover-img: "/assets/img/about-bg.jpg"
 subtitle: This is 
 ---
 <br><br>
