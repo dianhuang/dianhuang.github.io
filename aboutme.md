@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About me
-description: "你是我的夢想"
 cover-img: "/assets/img/about-bg.jpg"
-subtitle: 你是我的夢想
+subtitle: if(!tired):keepcoding()
 ---
 <br><br>
 Hi ！我是黃郁晴
