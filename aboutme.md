@@ -3,7 +3,7 @@ layout: page
 title: About me
 cover-img: "/assets/img/about-bg.jpg"
 subtitle: if (!tired) : keepcoding()
-tags: personal
+tags: [personal]
 ---
 <br><br>
 Hi ！我是黃郁晴
