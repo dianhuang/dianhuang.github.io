@@ -6,7 +6,7 @@ subtitle: if (!tired) :keepcoding()
 ---
 # <font color="#003D79">Introduction</font>
 
-`Python` `C++``Java` `JavaScript` `linux` `Docker` `Keras` `Azure`
+`Python` `C++` `Java` `JavaScript` `linux` `Docker` `Keras` `Azure`
 <br><br>
 
 `Deep/Machine learning` `MongoDB/MySQL`
