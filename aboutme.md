@@ -6,7 +6,7 @@ subtitle: if (!tired) :keepcoding()
 ---
 # <font color="#003D79">Introduction</font>
 
-`Python` &nbsp;&nbsp;`C++`  `Java`  `JavaScript`  `linux`  `Docker`  `Keras`  `Azure`  `Deep/Machine learning`  `MongoDB/MySQL`
+`Python` &nbsp;&nbsp;&nbsp;`C++`  &nbsp;`Java`  &nbsp;`JavaScript`  &nbsp;`linux`&nbsp;  `Docker`&nbsp;  `Keras`&nbsp;  `Azure`&nbsp;  `Deep/Machine learning`&nbsp;  `MongoDB/MySQL`
 
 
 1. 熟悉機器學習/Tensorflow/Deep neural networks(CNN, RNN)
