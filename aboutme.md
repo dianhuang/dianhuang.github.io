@@ -4,10 +4,12 @@ title: About me
 cover-img: "/assets/img/about-bg.jpg"
 subtitle: if (!tired) :keepcoding()
 ---
-# <font color="#003D79">Introduction</font>
+#<font color="#003D79">Introduction</font>
+
 `Python``C++``Java``JavaScript``linux``Docker``Keras``Azure`
 <br><br>
 `Deep/Machine learning``MongoDB/MySQL`
+
 
 1. 熟悉機器學習/Tensorflow/Deep neural networks(CNN, RNN)
 2. 具備使用深度學習方法的經驗
@@ -16,6 +18,7 @@ subtitle: if (!tired) :keepcoding()
 5. 擁有Microsoft Azure操作經驗
 
 ##工作經歷
+
 ###經歷1  數據分析/系統開發工程師 鴻海精密工業 2019/02~仍在職 
 1. 資料爬蟲探勘及數據分析
 2. 系統後端API開發及環境部署
