@@ -4,7 +4,7 @@ title: About me
 cover-img: "/assets/img/about-bg.jpg"
 subtitle: if (!tired) :keepcoding()
 ---
-#<font color="#003D79">Introduction</font>
+# <font color="#003D79">Introduction</font>
 
 `Python``C++``Java``JavaScript``linux``Docker``Keras``Azure`
 <br><br>
