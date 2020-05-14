@@ -8,6 +8,7 @@ subtitle: if (!tired) :keepcoding()
 
 `Python``C++``Java``JavaScript``linux``Docker``Keras``Azure`
 <br><br>
+
 `Deep/Machine learning``MongoDB/MySQL`
 
 
