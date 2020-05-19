@@ -4,7 +4,7 @@ title: About me
 cover-img: "/assets/img/about-bg.jpg"
 subtitle: if (!tired) :keepcoding()
 ---
-# <font color="#003D79">專業技能及語言</font>
+# <font color="#003D79">INTRODUCTION</font>
 
 `Python` &nbsp;&nbsp;&nbsp;`C++`  &nbsp;&nbsp;&nbsp;`Java`  &nbsp;&nbsp;&nbsp;`JavaScript`  &nbsp;&nbsp;&nbsp;`linux`&nbsp;&nbsp;&nbsp;  `Docker`&nbsp;&nbsp;&nbsp;  `Keras`&nbsp;&nbsp;&nbsp;  `Azure`&nbsp;&nbsp;&nbsp;  `Deep/Machine learning`&nbsp;&nbsp;&nbsp;  `MongoDB/MySQL`
 
