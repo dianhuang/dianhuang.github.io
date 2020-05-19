@@ -44,6 +44,6 @@ subtitle: if (!tired) :keepcoding()
 &nbsp;&nbsp;&nbsp;&nbsp; 為了妥展視野，畢業後選擇任職於鴻海精密工業，派駐在廣東深圳，工作內容主要以專案的形式利用數據分析建模並開發系統，幫助公司優化生產或是降低成本。這段期間認識熟悉了SMT產線的流程，並領會到了解場域能用更廣的角度理解數據。<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 每一個專案，每一個需求，每一個功能都可以靠自己寫Code實現，技術上的問題往往不是問題，而大數據的時代，一個好的想法更加重要，可以**將資料變成有價值的知識**，幫助社會，這也是為什麼我喜歡數據分析、資料探勘的原因。
 
-##<font color="#003D79">Projects及論文</font>
+## <font color="#003D79">Projects及論文</font>
 * [Projects of Computer Vision - Male 2 Female/Female 2 Male](https://sites.google.com/view/cvfx17/project/project-i?authuser=0)<br>
 * [Huang, Y. C., Chiang, C. F., & Chen, A. L. (2019). Predicting Depression Tendency based on Image, Text and Behavior Data from Instagram.](https://drive.google.com/file/d/1S_2F4NEdDwks0XcS_8vob0Rs1zOIprYN/view?usp=sharing) DATA 2019 - 8th International Conference on Data Science, Technology and Applications
